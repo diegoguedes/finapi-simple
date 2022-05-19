@@ -147,3 +147,5 @@ app.get("/balance", verifyIfExistsAccountCPF, (request, response) => {
 });
 
 app.listen(3333);
+
+module.exports = app;
