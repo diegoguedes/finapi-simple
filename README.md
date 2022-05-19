@@ -1,5 +1,5 @@
 # FinApi Simple
-It's a simple API Financial with a in-memory database (I used a vector)
+It's a simple API Financial with a in-memory database (I used a vector) writed in NodeJS
 
 ## Requirements
 - [ ] It should be able to create an account
